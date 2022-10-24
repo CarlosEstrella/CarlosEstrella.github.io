@@ -124,7 +124,6 @@
   height: 800px;
   left: 900px;
   top: 0px;
-  background: #F9BDBD;
   z-index:-1;
 }
 
@@ -137,4 +136,240 @@
   background: url(.png);
   z-index:-2;
   top: 400px; 
+}
+
+#flor2{
+  position: absolute;
+  width: 568px;
+  height: 577px;
+  left: 100px;
+  top: 1000px; 
+}
+
+#parrafo3{
+  position: absolute;
+  width: 504px;
+  height: 196px;
+  left: 136px;
+  top: 955px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #313235;
+}
+
+#linea{
+  position: absolute;
+  width: 568px;
+  height: 577px;
+  left: 350px;
+  top: 1005px; 
+}
+
+#about{
+  position: absolute;
+  width: 379px;
+  height: 98px;
+  left: 673px;
+  top: 900px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 98px;
+  text-align: right;
+
+  color: rgba(34, 34, 34, 0.1);
+}
+
+#rectangulo2{
+  position: absolute;
+  width: 278px;
+  height: 388px;
+  left: 100px;
+  top: 1100px;
+}
+
+#plato{
+  position: absolute;
+  width: 388px;
+  height: 306px;
+  left: 138px;
+  top: 1180px;
+
+  background: url(.png);
+}
+
+#parrafo4{
+  position: absolute;
+  width: 448px;
+  height: 98px;
+  left: 604px;
+  top: 1180px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #3E3F43;
+}
+
+#parrafo5{
+  position: absolute;
+  width: 448px;
+  height: 66px;
+  left: 604px;
+  top: 1300px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+#cocina{
+  position: absolute;
+  width: 287px;
+  height: 384px;
+  left: 865px;
+  top: 1550px;
+
+  background: url(.png);
+}
+
+#parrafo6{
+  position: absolute;
+  width: 648px;
+  height: 49px;
+  left: 102px;
+  top: 1620px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 49px;
+
+  color: #000000;
+}
+
+#parrafo7{
+  position: absolute;
+  width: 648px;
+  height: 66px;
+  left: 102px;
+  top: 1700px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 33px;
+
+  color: #000000;
+}
+
+#flor3{
+  position: absolute;
+  width: 568px;
+  height: 577px;
+  left: 100px;
+  top: 2100px; 
+}
+
+#parrafo8{
+  position: absolute;
+  width: 254px;
+  height: 49px;
+  left: 138.5px;
+  top: 2055px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #3E3F43;
+}
+
+#linea2{
+  position: absolute;
+  width: 65px;
+  height: 0px;
+  left: 408.5px;
+  top: 2100px;
+}
+
+#parrafo9{
+  position: absolute;
+  width: 579px;
+  height: 98px;
+  left: 473.5px;
+  top: 1990px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 98px;
+  text-align: right;
+
+  color: rgba(34, 34, 34, 0.1);
+}
+
+#ventas{
+  position: absolute;
+  width: 287px;
+  height: 384px;
+  left: 100.5px;
+  top: 2234px;
+
+  background: url(.png);
+}
+
+#area{
+  position: absolute;
+  width: 287px;
+  height: 384px;
+  left: 380px;
+  top: 2234px;
+
+  background: url(.png);
+}
+
+#budg{
+  position: absolute;
+  width: 287px;
+  height: 384px;
+  left: 630px;
+  top: 2234px;
+
+  background: url(.png);
+}
+
+#produ{
+  position: absolute;
+  width: 287px;
+  height: 384px;
+  left: 860px;
+  top: 2234px;
+
+  background: url(.png);
+}
+
+#perso{
+  position: absolute;
+  left: 393px;
+  top: 1906px;
 }

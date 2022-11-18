@@ -782,3 +782,167 @@
   left: 920px;
   top: 4300px;
 }
+
+#footer1{
+  position: absolute;
+  width: 493px;
+  height: 69px;
+  left: 107.5px;
+  top: 4470px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+  
+  color: #000000;
+}
+
+.email_contenedor{
+  position: absolute;
+  left: 700px;
+  top: 4500px;
+  z-index: 1;
+}
+.email_contenedor form{
+  width: 100%;
+  max-width: 470px;
+  display: flex;
+}
+
+.email_contenedor form .email_txt{
+  width: 355px;
+  height: 40px;
+  border: 1px solid #DAA520;
+  border-radius: 3px 0px 0px 3px;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+
+.email_contenedor form .sus_boton{
+  width: 120px;
+  height: 44px;
+  border: 1px solid #DAA520;
+  border-radius: 0px 3px;
+  background:#DAA520;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 18px;
+}
+.email_contenedor form .sus_boton:hover{
+  background: #ffdc84;
+}
+
+#footer2{
+  position: absolute;
+  left: 108.5px;
+  top: 4660px;
+}
+
+#footer3{
+  position: absolute;
+  left: 108.5px;
+  top: 4710px;
+}
+
+#footer4{
+  position: absolute;
+  width: 150px;
+  height: 19px;
+  left: 108.5px;
+  top: 4765px;
+  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #8D8D8D;
+}
+
+
+.footer_menu1{
+  position: absolute;
+  left: 320px;
+  top: 4696px;
+  list-style: none;
+}
+
+#txtfooter1{
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #333333;
+}
+
+.footer_menu{
+  width: 100px;
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 18px;
+  color: #8D8D8D; 
+  text-decoration: none;
+}
+
+.footer_menu:hover{
+  color: #DAA520;
+}
+
+.footer_menu2{
+  position: absolute;
+  left: 480px;
+  top: 4696px;
+  list-style: none;
+}
+
+#txtfooter2{
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #333333;
+}
+
+.footer_menu3{
+  position: absolute;
+  left: 643px;
+  top: 4696px;
+  list-style: none;
+}
+
+#txtfooter3{
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #333333;
+}
+
+.footer_menu4{
+  position: absolute;
+  left: 790px;
+  top: 4696px;
+  list-style: none;
+}
+
+#txtfooter4{
+  font-family: 'Nunito';
+  font-weight: 400;
+  font-size: 20px;
+  color: #333333;
+}
+
+#final{
+  position: absolute;
+  top: 5000px;
+  left: 590px;
+}
+
+#final2{
+  position: absolute;
+  left: 95px;
+  top: 4622px;
+  z-index: -1;
+}
